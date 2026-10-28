@@ -1,26 +1,4 @@
 # INC-001: RDP Brute Force Attack Detected
-
-## 1. Summary
-On October 28, 2026, at approximately 14:36 UTC, the Wazuh SIEM detected a high volume of failed logon attempts against the Windows 11 endpoint (`Windows-Victim`). Over 1,000 failed authentication events were recorded within a 15-minute window, indicating an automated Brute Force attack.
-
-## 2. Evidence
-- **Victim Agent:** Windows-Victim (192.168.129.133)
-- **Attacker IP:** [# INC-001: RDP Brute Force Attack Detected
-
-## 1. Summary
-On October 28, 2026, at approximately 14:36 UTC, the Wazuh SIEM detected a high volume of failed logon attempts against the Windows 11 endpoint (`Windows-Victim`). Over 1,000 failed authentication events were recorded within a 15-minute window, indicating an automated Brute Force attack.
-
-## 2. Evidence
-- **Victim Agent:** Windows-Victim (192.168.129.133)
-- **Attacker IP:** [# INC-001: RDP Brute Force Attack Detected
-
-## 1. Summary
-On October 28, 2026, at approximately 14:36 UTC, the Wazuh SIEM detected a high volume of failed logon attempts against the Windows 11 endpoint (`Windows-Victim`). Over 1,000 failed authentication events were recorded within a 15-minute window, indicating an automated Brute Force attack.
-
-## 2. Evidence
-- **Victim Agent:** Windows-Victim (192.168.129.133)
-- **Attacker IP:** [# INC-001: RDP Brute Force Attack Detected
-
 ## 1. Summary
 On October 28, 2026, at approximately 14:36 UTC, the Wazuh SIEM detected a high volume of failed logon attempts against the Windows 11 endpoint (`Windows-Victim`). Over 1,000 failed authentication events were recorded within a 15-minute window, indicating an automated Brute Force attack.
 
