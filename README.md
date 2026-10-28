@@ -1,7 +1,6 @@
-# soc-home-lab-wazuh
-A personal SOC lab simulating attacks and detections using Wazuh SIEM, Sysmon, and Kali Linux.
 
 # Home SOC Lab: Threat Detection & Incident Response
+A personal SOC lab simulating attacks and detections using Wazuh SIEM, Sysmon, and Kali Linux.
 
 ## 📌 Project Overview
 This project is a personal Home SOC (Security Operations Center) Lab designed to simulate real-world cyber attacks, detect them using a centralized SIEM, and practice incident response and log analysis.
