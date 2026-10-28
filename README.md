@@ -30,4 +30,4 @@ This project is a personal Home SOC (Security Operations Center) Lab designed to
 - **[INC-001: RDP Brute Force Attack](link-to-your-report)** - Simulated an RDP brute-force attack using Hydra and detected 1,000+ failed logon events (Event ID 4625) mapped to MITRE T1110.
 
 ---
-*Created by [Tên Của Bạn] - Aspiring SOC Analyst*
+*Created by [SanjVN] - Aspiring SOC Analyst*
